@@ -4,10 +4,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/POLYTECHNIQUE-IP_PARIS.png" width="100" title="hover text">
 </p>
 
-<p align="center">
-  <img src="https://moodle.polytechnique.fr/pluginfile.php/136504/course/section/14896/B503EF4C-E7A4-40E0-A60A-2472DE5942D7.gif" width="100" title="hover text">
-</p>
-
 As the title indicates, this course will provide a thorough understanding of the underlying principles of (modern) communication networks. We will both be studying the fundamental architectures, principles, algorithms — and illustrate how these are applied in real-world networks: from the Internet, over LPWAN through to the IoT.
 
 Specifically, this course: 
